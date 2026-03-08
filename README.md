@@ -1,3 +1,20 @@
+<!-- Last modified: 2026-03-08 by Claude (Anthropic) — AI-assisted development -->
+
+> ⚠️ **This is a fork** of <a href="https://github.com/spicetify/cli">spicetify/cli</a>.
+
+**Fork details:**
+
+| Field | Details |
+|-------|---------|
+| **Original project** | <a href="https://github.com/spicetify/cli">spicetify/cli</a> |
+| **Fork author** | Woo T. Fook |
+| **AI assistance** | Built with the assistance of AI |
+| **License** | GNU Lesser General Public License v2.1 (LGPL-2.1) |
+| **Third-party notices** | [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) |
+| **Full license text** | [LICENSE](./LICENSE) |
+
+---
+
 <h3 align="center"><a href="https://spicetify.app/"><img src="https://i.imgur.com/iwcLITQ.png" width="600px"></a></h3>
 <p align="center">
   <a href="https://goreportcard.com/report/github.com/spicetify/cli"><img src="https://goreportcard.com/badge/github.com/spicetify/cli"></a>
