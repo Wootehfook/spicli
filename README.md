@@ -1,12 +1,12 @@
 <!-- Last modified: 2026-03-08 by Claude (Anthropic) — AI-assisted development -->
 
-> ⚠️ **This is a fork** of <a href="https://github.com/spicetify/cli">spicetify/cli</a>.
+> ⚠️ **This is a fork** of [spicetify/cli](https://github.com/spicetify/cli).
 
 **Fork details:**
 
 | Field | Details |
 |-------|---------|
-| **Original project** | <a href="https://github.com/spicetify/cli">spicetify/cli</a> |
+| **Original project** | [spicetify/cli](https://github.com/spicetify/cli) |
 | **Fork author** | Woo T. Fook |
 | **AI assistance** | Built with the assistance of AI |
 | **License** | GNU Lesser General Public License v2.1 (LGPL-2.1) |
@@ -48,3 +48,5 @@ Supports Windows, MacOS and Linux.
 ### Code Signing Policy
 
 Free code signing provided by [SignPath.io](https://signpath.io), certificate by [SignPath Foundation](https://signpath.org/).
+
+<!-- Fork compliance notice added: 2026-03-08 by Claude (Anthropic) — AI-assisted development -->
